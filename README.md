@@ -9,3 +9,13 @@
 ## 🛣️ 개발 방법
 - 애플 공식 SwfitUI Tutorial 영상 참고
 - [유튜브 개발자리](https://www.youtube.com/@Leeo25)
+
+## 📱스크린샷
+- Cover Page
+<img src="https://github.com/user-attachments/assets/121e7655-80c5-43b4-b9c7-31c69227f4a8" width="250">
+
+- Life Journey_Connecting Dots
+<img src="https://github.com/user-attachments/assets/e231c491-bbba-43bf-80b9-c6fa2209e09c" width="250">
+
+- Life Journey_Dot Detail
+<img src="https://github.com/user-attachments/assets/5d732b03-a9b2-47b0-9773-5ce9fd306174" width="250">
